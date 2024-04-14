@@ -1,5 +1,5 @@
  <h1 align="center"> RAY Md </h1> 
-<p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing RAY_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 
 <h3 align="center"> TESTING HEROKU BAN PROBLEM! </h3> 
